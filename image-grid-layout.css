@@ -1,0 +1,12 @@
+.pic-column-container{
+  display: flex;
+}
+
+.pic-column{
+  width: 250px;
+  margin-right: 6px;
+}
+
+.pic-column img{
+  width: 100%;
+}
